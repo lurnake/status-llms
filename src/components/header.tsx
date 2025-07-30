@@ -14,6 +14,14 @@ export function Header() {
             <span className="font-bold text-lg">Status LLMs</span>
           </Link>
         </div>
+        <nav className="hidden md:flex items-center space-x-6 ml-8">
+          <Link href="/about" className="text-sm font-medium hover:text-primary transition-colors">
+            About
+          </Link>
+          <Link href="/analysis" className="text-sm font-medium hover:text-primary transition-colors">
+            Analysis
+          </Link>
+        </nav>
         <div className="ml-auto flex items-center space-x-4">
           <Button variant="ghost" size="sm" asChild>
             <a href="https://x.com/joonaheino" target="_blank" className="flex items-center space-x-2 px-3 py-2">
