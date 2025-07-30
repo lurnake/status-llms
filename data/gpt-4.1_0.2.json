@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a private jet",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 94
+    },
+    {
+      "name": "Owning a luxury penthouse in a major city",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Driving a Bugatti or Rolls-Royce",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Having a Forbes Billionaires List ranking",
+      "type": "activity",
+      "rating": 100
+    },
+    {
+      "name": "Wearing a Patek Philippe or Richard Mille watch",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Vacationing on a private island",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Graduating from Harvard, Oxford, or Stanford",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Owning original artwork by a famous artist (e.g., Banksy, Basquiat)",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Dining at Michelin 3-star restaurants",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Wearing haute couture fashion",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Owning a superyacht",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Being a keynote speaker at Davos/World Economic Forum",
+      "type": "activity",
+      "rating": 90
+    },
+    {
+      "name": "Owning a rare, vintage wine collection",
+      "type": "object",
+      "rating": 79
+    },
+    {
+      "name": "Having a blue checkmark on social media (verified account)",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "Living in a gated, exclusive community",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Attending exclusive film festivals (e.g., Cannes, Sundance)",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Owning the latest iPhone or flagship smartphone",
+      "type": "object",
+      "rating": 58
+    },
+    {
+      "name": "Wearing limited-edition designer sneakers",
+      "type": "object",
+      "rating": 62
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Traveling first class or by private cabin",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Being featured on the cover of a major magazine",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Owning a Tesla Model S Plaid or Lucid Air",
+      "type": "object",
+      "rating": 69
+    },
+    {
+      "name": "Attending exclusive tech conferences (e.g., TED, Apple Keynote)",
+      "type": "activity",
+      "rating": 66
+    },
+    {
+      "name": "Having a home with a smart automation system",
+      "type": "object",
+      "rating": 60
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+# Status LLMs Research - API Keys Configuration
+# Copy this content to .env.local and add your actual API keys
+
+# OpenAI API Key (for GPT-4.1, GPT-4o, GPT-o3)
+# Get from: https://platform.openai.com/api-keys
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Anthropic API Key (for Claude Sonnet 4, Claude Opus 4)
+# Get from: https://console.anthropic.com/
+ANTHROPIC_API_KEY=your_anthropic_api_key_here
+
+# Google Gemini API Key (for Gemini-2.5-pro)
+# Get from: https://aistudio.google.com/app/apikey
+GEMINI_API_KEY=your_google_api_key_here
+
+# xAI API Key (for Grok 4)
+# Get from: https://console.x.ai/
+GROK_API_KEY=your_xai_api_key_here
+
+# Moonshot AI API Key (for Kimi K2)
+# Get from: https://platform.moonshot.ai/
+MOONSHOT_API_KEY=your_moonshot_api_key_here
+
+# DeepSeek API Key (for DeepSeek-R1)
+# Get from: https://platform.deepseek.com/
+DEEPSEEK_API_KEY=your_deepseek_api_key_here
+
+# Alternative: Use AI/ML API for multiple models with one key
+# Get from: https://aimlapi.com/
+# AIMLAPI_KEY=your_aimlapi_key_here

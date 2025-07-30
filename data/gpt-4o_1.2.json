@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a yacht",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Owning a luxury penthouse in a major city",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Graduating from a top Ivy League university",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Driving a high-end sports car",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Attending a space tourism flight",
+      "type": "activity",
+      "rating": 86
+    },
+    {
+      "name": "Owning a leading global tech company's stock",
+      "type": "object",
+      "rating": 84
+    },
+    {
+      "name": "Winning a Nobel Prize",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Residing regularly in a five-star hotel",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Owning a private island",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Backstage access at major concerts",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Owning a renowned art collection",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Frequent appearances in exclusive social events",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Philanthropic founder of a successful charity",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Possessing a highly rare collectible watch",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Running a publicly traded successful company",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Luxury travel across the globe",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Owning the newest cutting-edge technology before launch",
+      "type": "object",
+      "rating": 71
+    },
+    {
+      "name": "Participation in exclusive investment clubs",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Fine dining in Michelin-starred restaurants",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Owning a collection of luxury wines",
+      "type": "object",
+      "rating": 74
+    },
+    {
+      "name": "Frequent use of a VIP service",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Having an influential social media following",
+      "type": "activity",
+      "rating": 67
+    },
+    {
+      "name": "Collecting vintage, rare books",
+      "type": "object",
+      "rating": 60
+    },
+    {
+      "name": "Owning a designer clothing wardrobe",
+      "type": "object",
+      "rating": 63
+    }
+  ]
+}

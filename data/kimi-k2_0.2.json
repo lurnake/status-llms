@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a superyacht over 100 meters",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Speaking at Davos World Economic Forum",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Having a personal chef with Michelin star experience",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Attending invitation-only Met Gala",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Owning original Basquiat or Koons artwork",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Being a TED main stage speaker",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Wearing Richard Mille watch",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Taking private space flight with Blue Origin",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Having household staff including butler",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Getting courtside seats at NBA Finals",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Owning limited edition Bugatti",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Being verified on Twitter with 1M+ followers",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Having wine collection with pre-2000 Bordeaux",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Attending Monaco Grand Prix yacht party",
+      "type": "activity",
+      "rating": 86
+    },
+    {
+      "name": "Owning property in multiple global cities",
+      "type": "object",
+      "rating": 84
+    },
+    {
+      "name": "Getting table at exclusive restaurant like Noma",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Having Hermès Birkin collection",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Speaking at exclusive VC/tech conferences",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Owning rare NFT from CryptoPunks or BAYC",
+      "type": "object",
+      "rating": 73
+    },
+    {
+      "name": "Taking luxury expedition to Antarctica",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Having private island in Caribbean",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Attending Cannes Film Festival red carpet",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Owning vintage Ferrari 250 GTO",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Being on Forbes 30 Under 30 list",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "Having membership at Augusta National Golf Club",
+      "type": "object",
+      "rating": 89
+    }
+  ]
+}

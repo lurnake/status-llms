@@ -21,6 +21,21 @@ const StatCard = ({ icon, title, value, footer }: { icon: React.ReactNode, title
   </Card>
 )
 
+const getHumanFriendlyModelName = (modelName: string): string => {
+  const modelMap: Record<string, string> = {
+    'claude-sonnet-4': 'Claude Sonnet 4',
+    'claude-opus-4': 'Claude Opus 4', 
+    'gemini-2.5-pro': 'Gemini 2.5 Pro',
+    'grok-4': 'Grok-4',
+    'kimi-k2': 'Kimi K2',
+    'deepseek-r1': 'DeepSeek R1',
+    'gpt-4.1': 'GPT-4.1',
+    'gpt-4o': 'GPT-4o',
+    'gpt-o3': 'GPT-o3'
+  }
+  return modelMap[modelName] || modelName
+}
+
 export function StatsOverview({ responses }: StatsOverviewProps) {
   if (responses.length === 0) {
     return (
@@ -44,6 +59,7 @@ export function StatsOverview({ responses }: StatsOverviewProps) {
   const totalItems = responses.reduce((sum, response) => sum + response.items.length, 0)
   const uniqueModels = [...new Set(responses.map(r => r.model))]
   const uniqueTemperatures = [...new Set(responses.map(r => r.temperature))]
+  const humanFriendlyModels = uniqueModels.map(getHumanFriendlyModelName)
 
   const allItems = responses.flatMap(r => 
     r.items.map(item => ({ ...item, model: r.model, temperature: r.temperature }))
@@ -57,7 +73,7 @@ export function StatsOverview({ responses }: StatsOverviewProps) {
         icon={<BrainCircuit className="h-4 w-4 text-muted-foreground" />} 
         title="Models Tested" 
         value={uniqueModels.length.toString()}
-        footer={uniqueModels.join(', ')}
+        footer={humanFriendlyModels.join(', ')}
       />
       <StatCard 
         icon={<Thermometer className="h-4 w-4 text-muted-foreground" />} 
@@ -85,7 +101,7 @@ export function StatsOverview({ responses }: StatsOverviewProps) {
             <div className="flex items-center space-x-4 mt-2 text-sm text-muted-foreground">
               <span>Rating: <span className="font-bold text-foreground">{highestRatedItem.rating}</span></span>
               <span>Type: <span className="font-bold text-foreground capitalize">{highestRatedItem.type}</span></span>
-              <span>Source: <span className="font-bold text-foreground">{highestRatedItem.model} @ {highestRatedItem.temperature}</span></span>
+              <span>Source: <span className="font-bold text-foreground">{getHumanFriendlyModelName(highestRatedItem.model)} @ {highestRatedItem.temperature}</span></span>
             </div>
           </CardContent>
         </Card>

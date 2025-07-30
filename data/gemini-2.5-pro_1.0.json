@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Superyacht ownership",
+      "type": "object",
+      "rating": 99
+    },
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Philanthropy leading to a named university wing",
+      "type": "activity",
+      "rating": 97
+    },
+    {
+      "name": "Attending the World Economic Forum in Davos",
+      "type": "activity",
+      "rating": 94
+    },
+    {
+      "name": "Owning a Patek Philippe Grand Complications watch",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 90
+    },
+    {
+      "name": "Founding a 'unicorn' startup (valued >$1B)",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Owning an original masterpiece by a famous artist (e.g., Picasso, Warhol)",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Attending an Ivy League or Oxbridge university",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Holding an American Express Centurion Card ('Black Card')",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Owning an Hermès Birkin bag",
+      "type": "object",
+      "rating": 84
+    },
+    {
+      "name": "Dining regularly at 3-Michelin-star restaurants",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Owning a vacation home in an exclusive location (e.g., Aspen, St. Barts)",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Sitting front row at a major Paris Fashion Week show",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Regularly flying international first class",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Owning a Rolls-Royce or Bentley",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Membership at an exclusive, invitation-only country club",
+      "type": "object",
+      "rating": 72
+    },
+    {
+      "name": "Going heli-skiing",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Employing a full-time personal chef",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Owning a Rolex watch",
+      "type": "object",
+      "rating": 66
+    },
+    {
+      "name": "Having a professionally curated wine cellar",
+      "type": "object",
+      "rating": 64
+    },
+    {
+      "name": "Playing in a polo league",
+      "type": "activity",
+      "rating": 62
+    },
+    {
+      "name": "Working with a high-profile personal trainer",
+      "type": "activity",
+      "rating": 60
+    },
+    {
+      "name": "Taking a business-class-only vacation",
+      "type": "activity",
+      "rating": 58
+    },
+    {
+      "name": "Owning a high-end electric vehicle (e.g., Porsche Taycan, Lucid Air)",
+      "type": "object",
+      "rating": 56
+    }
+  ]
+}

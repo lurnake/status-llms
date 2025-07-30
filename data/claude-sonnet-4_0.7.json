@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Owning a superyacht",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Attending Harvard or Oxford",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Owning multiple luxury homes",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Being a tech billionaire/CEO",
+      "type": "activity",
+      "rating": 97
+    },
+    {
+      "name": "Hermès Birkin bag collection",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Space tourism travel",
+      "type": "activity",
+      "rating": 95
+    },
+    {
+      "name": "Patek Philippe watch",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Dining at Michelin 3-star restaurants regularly",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Owning rare art masterpieces",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Rolls-Royce or Bentley ownership",
+      "type": "object",
+      "rating": 84
+    },
+    {
+      "name": "Attending exclusive charity galas",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Custom-tailored Savile Row suits",
+      "type": "object",
+      "rating": 76
+    },
+    {
+      "name": "Playing polo",
+      "type": "activity",
+      "rating": 73
+    },
+    {
+      "name": "Owning a vineyard/winery",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "First-class international travel",
+      "type": "activity",
+      "rating": 71
+    },
+    {
+      "name": "Limited edition luxury cars",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Being fluent in multiple languages",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Designer jewelry with precious stones",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Attending Fashion Week front row",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "High-end sports car collection",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Playing golf at exclusive country clubs",
+      "type": "activity",
+      "rating": 69
+    },
+    {
+      "name": "Owning racehorses",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Having advanced degrees from elite universities",
+      "type": "activity",
+      "rating": 77
+    }
+  ]
+}

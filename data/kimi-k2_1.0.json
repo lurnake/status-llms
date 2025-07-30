@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a Gulfstream G650 private jet",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Climbing Mount Everest",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Living in a penthouse overlooking Central Park",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Speaking at TED events",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Driving a Bugatti Chiron",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Owning a rare Patek Philippe watch",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Being on the board of a Fortune 500 company",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Doing a space tourism flight",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Owning original Basquiat artwork",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Getting an invitation to Davos",
+      "type": "activity",
+      "rating": 86
+    },
+    {
+      "name": "Owning a superyacht over 100m",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Having dinner at The French Laundry",
+      "type": "activity",
+      "rating": 72
+    },
+    {
+      "name": "Carrying a Hermès Birkin bag",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Speaking fluent Mandarin",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Driving a Tesla Model S Plaid",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "Getting a PhD from MIT",
+      "type": "activity",
+      "rating": 81
+    },
+    {
+      "name": "Owning property in Monaco",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Running the New York Marathon",
+      "type": "activity",
+      "rating": 61
+    },
+    {
+      "name": "Having season tickets to Formula 1 Monaco GP",
+      "type": "object",
+      "rating": 79
+    },
+    {
+      "name": "Being verified on Twitter/X",
+      "type": "activity",
+      "rating": 58
+    },
+    {
+      "name": "Owning a Warhol Marilyn print",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Getting into Y Combinator",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Carrying the latest iPhone Pro Max",
+      "type": "object",
+      "rating": 52
+    }
+  ]
+}

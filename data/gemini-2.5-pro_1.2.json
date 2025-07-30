@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Winning a Nobel Prize",
+      "type": "activity",
+      "rating": 100
+    },
+    {
+      "name": "Superyacht ownership",
+      "type": "object",
+      "rating": 99
+    },
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Going on a private spaceflight mission",
+      "type": "activity",
+      "rating": 97
+    },
+    {
+      "name": "Having a university building or museum wing named after you",
+      "type": "activity",
+      "rating": 96
+    },
+    {
+      "name": "Founding a startup that becomes a 'unicorn' ($1B+ valuation)",
+      "type": "activity",
+      "rating": 95
+    },
+    {
+      "name": "Owning a blue-chip art collection (e.g., Picasso, Rothko)",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Having a dedicated family office to manage assets",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Receiving a personal invitation to and attending the Met Gala",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Owning a Patek Philippe Grand Complications watch",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Membership in an elite, invitation-only club (e.g., Augusta National)",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Owning a penthouse apartment in a global capital (NYC, London, HK)",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Delivering a main-stage TED Talk",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Graduating from Harvard, Oxford, or an equivalent elite university",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Owning a producing vineyard in a premier region (e.g., Napa, Bordeaux)",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Driving a bespoke Rolls-Royce Phantom",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Employing a full-time personal chef",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Possessing an American Express Centurion Card ('Black Card')",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Sitting front row at a major Fashion Week show (e.g., Chanel)",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Flying in a long-haul First Class suite (e.g., Etihad's 'The Residence')",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Publishing a critically acclaimed, international bestselling novel",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Owning an Hermès Birkin or Kelly bag",
+      "type": "object",
+      "rating": 74
+    },
+    {
+      "name": "Maintaining a staffed vacation villa in a prime location (e.g., St. Barts)",
+      "type": "object",
+      "rating": 71
+    },
+    {
+      "name": "Going on a bespoke African safari with a private guide and charter flights",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Collecting and cellaring rare, investment-grade wine",
+      "type": "activity",
+      "rating": 65
+    }
+  ]
+}

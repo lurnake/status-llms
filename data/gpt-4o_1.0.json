@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a private yacht",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Graduating from an Ivy League university",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Driving a luxury sports car",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Living in a mansion in a prestigious neighborhood",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Frequent first-class air travel",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Buying fine art for investment",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Wearing a limited edition luxury watch",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Holding a leadership position in a Fortune 500 company",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Owning a private island",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Maintaining a large social media following",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Possessing rare collectibles like classic cars",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "TED talk speaker",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Owning a historic estate",
+      "type": "object",
+      "rating": 79
+    },
+    {
+      "name": "Having a personal assistant",
+      "type": "object",
+      "rating": 71
+    },
+    {
+      "name": "Participating in high-level networking events",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "Being a successful entrepreneur",
+      "type": "activity",
+      "rating": 86
+    },
+    {
+      "name": "Wins prestigious honors/awards",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Collecting luxury fashion items",
+      "type": "activity",
+      "rating": 66
+    },
+    {
+      "name": "Owning premium real estate in multiple countries",
+      "type": "object",
+      "rating": 93
+    },
+    {
+      "name": "Belonging to exclusive clubs or societies",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Dining at Michelin-starred restaurants regularly",
+      "type": "activity",
+      "rating": 81
+    },
+    {
+      "name": "Possessing cutting-edge technology gadgets",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "Holding patents for innovation",
+      "type": "activity",
+      "rating": 73
+    },
+    {
+      "name": "Traveling to exotic destinations annually",
+      "type": "activity",
+      "rating": 68
+    }
+  ]
+}

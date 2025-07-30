@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Superyacht ownership",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Attending the World Economic Forum in Davos",
+      "type": "activity",
+      "rating": 95
+    },
+    {
+      "name": "Owning an original Warhol or Basquiat painting",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "A Patek Philippe Grand Complications watch",
+      "type": "object",
+      "rating": 93
+    },
+    {
+      "name": "A sub-orbital space tourism flight",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "An American Express Centurion Card (Black Card)",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Giving a main-stage TED Talk",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Owning a vacation home in The Hamptons or St. Barts",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "A Rolls-Royce Phantom",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Securing a major venture capital funding round for your startup",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "A rare Hermès Birkin bag",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Membership at an elite, exclusive country club (e.g., Augusta National)",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Employing a personal full-time Michelin-starred chef",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "A professionally curated, temperature-controlled wine cellar",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Having a feature article byline in The New Yorker",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Flying first class internationally on a premier airline",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Courtside seats at the NBA Finals",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "A degree from an Ivy League university",
+      "type": "object",
+      "rating": 72
+    },
+    {
+      "name": "Taking a month-long sabbatical for solo international travel",
+      "type": "activity",
+      "rating": 69
+    },
+    {
+      "name": "A classic Chanel 2.55 handbag",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "Attending Coachella with VIP or artist-guest passes",
+      "type": "activity",
+      "rating": 66
+    },
+    {
+      "name": "A Peloton Bike+ Ultimate package",
+      "type": "object",
+      "rating": 64
+    },
+    {
+      "name": "A verified social media account with over 1 million followers",
+      "type": "object",
+      "rating": 62
+    }
+  ]
+}

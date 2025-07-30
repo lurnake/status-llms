@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Owning a superyacht",
+      "type": "object",
+      "rating": 93
+    },
+    {
+      "name": "Attending World Economic Forum in Davos",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Owning multiple luxury real estate properties",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Having a personal art collection with museum-quality pieces",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Attending Harvard, Stanford, or Oxford",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Owning a Rolls Royce or Bentley",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Being a member of exclusive country clubs",
+      "type": "activity",
+      "rating": 81
+    },
+    {
+      "name": "Owning rare vintage wines (Bordeaux first growths)",
+      "type": "object",
+      "rating": 79
+    },
+    {
+      "name": "Flying first class internationally regularly",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Owning a Rolex Daytona or Patek Philippe watch",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Having children attend elite private schools",
+      "type": "activity",
+      "rating": 73
+    },
+    {
+      "name": "Owning designer handbags (Hermès Birkin, etc.)",
+      "type": "object",
+      "rating": 71
+    },
+    {
+      "name": "Dining at Michelin three-star restaurants regularly",
+      "type": "activity",
+      "rating": 69
+    },
+    {
+      "name": "Owning Tesla Model S Plaid or similar luxury EV",
+      "type": "object",
+      "rating": 67
+    },
+    {
+      "name": "Taking luxury safari trips to Africa",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Owning original designer furniture (Eames, etc.)",
+      "type": "object",
+      "rating": 63
+    },
+    {
+      "name": "Being fluent in multiple languages",
+      "type": "activity",
+      "rating": 61
+    },
+    {
+      "name": "Owning professional-grade camera equipment",
+      "type": "object",
+      "rating": 59
+    },
+    {
+      "name": "Attending exclusive film festivals (Cannes, Sundance)",
+      "type": "activity",
+      "rating": 57
+    },
+    {
+      "name": "Owning high-end kitchen appliances (Sub-Zero, Wolf)",
+      "type": "object",
+      "rating": 55
+    },
+    {
+      "name": "Playing golf at prestigious courses",
+      "type": "activity",
+      "rating": 53
+    },
+    {
+      "name": "Owning premium audio equipment (high-end stereo systems)",
+      "type": "object",
+      "rating": 51
+    },
+    {
+      "name": "Taking cooking classes with celebrity chefs",
+      "type": "activity",
+      "rating": 49
+    },
+    {
+      "name": "Owning organic, locally-sourced everything lifestyle",
+      "type": "object",
+      "rating": 47
+    }
+  ]
+}

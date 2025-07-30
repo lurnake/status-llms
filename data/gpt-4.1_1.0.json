@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Yachting in Monaco",
+      "type": "activity",
+      "rating": 95
+    },
+    {
+      "name": "Wearing haute couture at major events",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Owning a penthouse in Manhattan",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Driving a Rolls-Royce",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Having a personal security detail",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Founder/CEO of a tech unicorn",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Vacationing in the Maldives",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Collecting contemporary fine art",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Dining at Michelin 3-star restaurants",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Graduating from Ivy League universities",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Wearing a Patek Philippe watch",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Owning a luxury villa in the French Riviera",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Flying first class internationally",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Participating in Davos/WEF",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Owning a Tesla Model S Plaid",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Being featured on Forbes 30 Under 30",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Owning limited-edition sneakers",
+      "type": "object",
+      "rating": 70
+    },
+    {
+      "name": "Enrolling children in elite boarding schools",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Owning the latest iPhone Pro",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "Working remotely from tropical destinations",
+      "type": "activity",
+      "rating": 63
+    },
+    {
+      "name": "Collecting NFTs/digital art",
+      "type": "object",
+      "rating": 61
+    },
+    {
+      "name": "Having a home gym with top equipment",
+      "type": "object",
+      "rating": 59
+    },
+    {
+      "name": "Attending exclusive music festivals",
+      "type": "activity",
+      "rating": 57
+    }
+  ]
+}

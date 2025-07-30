@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a luxury yacht",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Attending a major film festival like Cannes",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Owning a collection of rare art",
+      "type": "object",
+      "rating": 93
+    },
+    {
+      "name": "Staying in a presidential suite at a top hotel",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Attending an Ivy League university",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Owning a luxury sports car",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Having a private chef",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Traveling first class internationally",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Owning a mansion in a prestigious area",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Being a member of an exclusive club",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Attending exclusive fashion shows",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Wearing high-end designer clothing",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Owning a tech startup",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Having a large social media following",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Owning a luxury watch collection",
+      "type": "object",
+      "rating": 76
+    },
+    {
+      "name": "Participating in elite sports events (e.g., polo)",
+      "type": "activity",
+      "rating": 73
+    },
+    {
+      "name": "Living in a penthouse apartment",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Owning rare and expensive jewelry",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Attending high-profile charity galas",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Getting a PhD from a top university",
+      "type": "activity",
+      "rating": 72
+    },
+    {
+      "name": "Owning a vineyard",
+      "type": "object",
+      "rating": 74
+    },
+    {
+      "name": "Having access to private islands",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Being featured in prestigious publications",
+      "type": "activity",
+      "rating": 71
+    },
+    {
+      "name": "Owning a private art gallery",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Winning a major international award",
+      "type": "activity",
+      "rating": 90
+    }
+  ]
+}

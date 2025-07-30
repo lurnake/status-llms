@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Owning a mega-yacht",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 95
+    },
+    {
+      "name": "Living in a penthouse in a major global city",
+      "type": "object",
+      "rating": 93
+    },
+    {
+      "name": "Driving a Bugatti",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Wearing a limited-edition Patek Philippe watch",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Owning original contemporary art by a famous artist",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Dining at a three Michelin star restaurant",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Graduating from Harvard or Oxford",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Exclusive membership at a world-famous private club",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Owning a designer fashion collection (e.g., Hermès, Chanel)",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Vacationing on a private island",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Being featured on Forbes' Billionaires List",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Receiving a Nobel Prize",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Owning a luxury villa in the French Riviera",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Having a personal security detail",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Front row seats at Paris Fashion Week",
+      "type": "activity",
+      "rating": 77
+    },
+    {
+      "name": "Winning an Oscar or Grammy",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Driving a new Tesla Model S Plaid",
+      "type": "object",
+      "rating": 74
+    },
+    {
+      "name": "Owning the latest iPhone Pro Max",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "International business class flight travel",
+      "type": "activity",
+      "rating": 67
+    },
+    {
+      "name": "Collecting rare sneakers",
+      "type": "object",
+      "rating": 63
+    },
+    {
+      "name": "Staying at a five-star hotel",
+      "type": "activity",
+      "rating": 60
+    },
+    {
+      "name": "Owning a high-end gaming PC setup",
+      "type": "object",
+      "rating": 58
+    },
+    {
+      "name": "Wearing AirPods Pro",
+      "type": "object",
+      "rating": 52
+    }
+  ]
+}

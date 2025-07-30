@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Yacht over 100 feet",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Serving on Fortune 500 board",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Owning a Picasso or Monet",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Multiple homes in prime locations",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Attending Davos World Economic Forum",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Ivy League education",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Ferrari or Lamborghini ownership",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "First class international travel",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Rolex or Patek Philippe watch",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Membership at exclusive golf clubs",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Birkin bag ownership",
+      "type": "object",
+      "rating": 74
+    },
+    {
+      "name": "Wine collection with rare vintages",
+      "type": "object",
+      "rating": 72
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "activity",
+      "rating": 71
+    },
+    {
+      "name": "Tesla Model S Plaid",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "Skiing in Aspen or St. Moritz",
+      "type": "activity",
+      "rating": 67
+    },
+    {
+      "name": "Designer clothing wardrobe",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "MBA from top business school",
+      "type": "activity",
+      "rating": 64
+    },
+    {
+      "name": "Michelin star dining regularly",
+      "type": "activity",
+      "rating": 62
+    },
+    {
+      "name": "Latest iPhone Pro Max",
+      "type": "object",
+      "rating": 58
+    },
+    {
+      "name": "Peloton bike",
+      "type": "object",
+      "rating": 56
+    },
+    {
+      "name": "Attending Burning Man",
+      "type": "activity",
+      "rating": 55
+    },
+    {
+      "name": "Blue checkmark verification",
+      "type": "object",
+      "rating": 53
+    },
+    {
+      "name": "Yoga retreats in Bali",
+      "type": "activity",
+      "rating": 52
+    },
+    {
+      "name": "Craft cocktail expertise",
+      "type": "activity",
+      "rating": 50
+    }
+  ]
+}

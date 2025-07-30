@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Attending Wimbledon finals in Royal Box",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Owning a contemporary art collection with blue-chip artists",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Space tourism flight",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Superyacht ownership (80m+)",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Hosting summit for global leaders",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Having a Birkin bag collection (rare editions)",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Attending Ivy League university as legacy student",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Owning a vineyard in Bordeaux",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Luxury penthouse in One Hyde Park, London",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Chairing major international charity gala",
+      "type": "activity",
+      "rating": 81
+    },
+    {
+      "name": "Driving limited-edition hypercar (e.g., Ferrari LaFerrari)",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Safari in private wildlife reserve",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Wearing haute couture from Chanel/Dior",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Dining at Michelin 3-star chef's private kitchen",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Owning a Swiss boarding school alumni network membership",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Attending Met Gala as invited guest",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "Monaco residency with tax benefits",
+      "type": "object",
+      "rating": 73
+    },
+    {
+      "name": "Heli-skiing in remote Arctic locations",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Rare Patek Philippe watch collection",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "Founding a tech unicorn company",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Personalized genetic wellness program",
+      "type": "object",
+      "rating": 62
+    },
+    {
+      "name": "Membership at Core Club or Soho House Global",
+      "type": "object",
+      "rating": 60
+    },
+    {
+      "name": "Crypto billionaire status",
+      "type": "object",
+      "rating": 58
+    },
+    {
+      "name": "Regular attendance at Davos World Economic Forum",
+      "type": "activity",
+      "rating": 55
+    }
+  ]
+}

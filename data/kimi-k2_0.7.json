@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a superyacht over 100 feet",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Speaking at Davos World Economic Forum",
+      "type": "activity",
+      "rating": 94
+    },
+    {
+      "name": "Having a private island",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Being a Forbes billionaire list member",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Owning an original Picasso",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Having a personal chef with Michelin star experience",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Receiving an Oscar nomination",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Owning a Richard Mille watch",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Being invited to the Bohemian Grove",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Having a Hamptons beachfront property",
+      "type": "object",
+      "rating": 81
+    },
+    {
+      "name": "Graduating from Stanford MBA",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Owning a Tesla Model S Plaid",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Getting verified on Instagram with 1M+ followers",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Having a wine collection with first-growth Bordeaux",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Completing an Ironman triathlon",
+      "type": "activity",
+      "rating": 73
+    },
+    {
+      "name": "Owning a Birkin bag",
+      "type": "object",
+      "rating": 72
+    },
+    {
+      "name": "Speaking at TED conference",
+      "type": "activity",
+      "rating": 71
+    },
+    {
+      "name": "Having a ski-in/ski-out chalet in Aspen",
+      "type": "object",
+      "rating": 70
+    },
+    {
+      "name": "Getting into Y Combinator",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Owning the latest iPhone Pro Max",
+      "type": "object",
+      "rating": 67
+    },
+    {
+      "name": "Having dinner at a 3-Michelin star restaurant",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Owning designer sneakers (Yeezy/Off-White)",
+      "type": "object",
+      "rating": 63
+    },
+    {
+      "name": "Attending Burning Man as a tech CEO",
+      "type": "activity",
+      "rating": 61
+    },
+    {
+      "name": "Having a Peloton with membership",
+      "type": "object",
+      "rating": 58
+    }
+  ]
+}

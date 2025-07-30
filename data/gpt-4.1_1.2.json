@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Owning a private jet",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Receiving a Nobel Prize",
+      "type": "activity",
+      "rating": 95
+    },
+    {
+      "name": "Owning a luxury penthouse in a major world city",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Yachting in the Mediterranean",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Driving a Rolls-Royce",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Graduating from an Ivy League or Oxbridge university",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Wearing haute couture fashion",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Dining at Michelin 3-star restaurants",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Owning artwork by a famous contemporary artist",
+      "type": "object",
+      "rating": 84
+    },
+    {
+      "name": "Being CEO of a Fortune 500 company",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Wearing a Patek Philippe watch",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Regular travel in first class or private suites",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Philip Starck-designed furniture in home",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Climbing Mount Everest",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Owning rare cryptocurrencies worth millions",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Speaking as a guest at the World Economic Forum",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "Building a significant philanthropic foundation",
+      "type": "activity",
+      "rating": 72
+    },
+    {
+      "name": "Driving a new Tesla Model S Plaid",
+      "type": "object",
+      "rating": 70
+    },
+    {
+      "name": "Collecting vintage wines",
+      "type": "object",
+      "rating": 69
+    },
+    {
+      "name": "Living in a gated estate with 24-hour security",
+      "type": "object",
+      "rating": 67
+    },
+    {
+      "name": "Vacationing at exclusive Maldives resorts",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Being featured on the cover of Forbes",
+      "type": "activity",
+      "rating": 63
+    },
+    {
+      "name": "Attending invite-only art auctions",
+      "type": "activity",
+      "rating": 59
+    },
+    {
+      "name": "Owning the latest iPhone Pro Max",
+      "type": "object",
+      "rating": 55
+    },
+    {
+      "name": "Sporting designer sneakers from limited releases",
+      "type": "object",
+      "rating": 52
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Attending an Ivy League university",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Yacht ownership",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Being CEO of a Fortune 500 company",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Collecting rare contemporary art",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Luxury sports car ownership",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Vacationing on private islands",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Wearing high-end designer fashion",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Mansion in elite neighborhood",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Large-scale philanthropy",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Space tourism flight",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Rare wine collection",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Employing a personal chef",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Bitcoin millionaire portfolio",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "Winning a Nobel Prize",
+      "type": "activity",
+      "rating": 98
+    },
+    {
+      "name": "Private vineyard ownership",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Skiing at exclusive Alpine resorts",
+      "type": "activity",
+      "rating": 72
+    },
+    {
+      "name": "Luxury watch collection",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Founding a successful tech startup",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "High-end home automation system",
+      "type": "object",
+      "rating": 55
+    },
+    {
+      "name": "Flying first class internationally",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Vintage car collection",
+      "type": "object",
+      "rating": 76
+    },
+    {
+      "name": "Publishing a bestselling book",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Owning a luxury handbag like Birkin",
+      "type": "object",
+      "rating": 74
+    }
+  ]
+}

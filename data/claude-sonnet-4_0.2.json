@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Owning a superyacht",
+      "type": "object",
+      "rating": 93
+    },
+    {
+      "name": "Attending World Economic Forum in Davos",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Owning original artwork by famous artists",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Luxury penthouse in Manhattan",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Attending Harvard or Oxford",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Owning a Rolls-Royce or Bentley",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Playing polo",
+      "type": "activity",
+      "rating": 80
+    },
+    {
+      "name": "Hermès Birkin bag",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Dining at Michelin three-star restaurants",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Patek Philippe watch",
+      "type": "object",
+      "rating": 75
+    },
+    {
+      "name": "Owning racehorses",
+      "type": "object",
+      "rating": 73
+    },
+    {
+      "name": "Private wine cellar with rare vintages",
+      "type": "object",
+      "rating": 71
+    },
+    {
+      "name": "Skiing in St. Moritz or Aspen",
+      "type": "activity",
+      "rating": 69
+    },
+    {
+      "name": "Tesla Model S Plaid",
+      "type": "object",
+      "rating": 67
+    },
+    {
+      "name": "Playing golf at exclusive country clubs",
+      "type": "activity",
+      "rating": 66
+    },
+    {
+      "name": "Designer clothing from haute couture",
+      "type": "object",
+      "rating": 64
+    },
+    {
+      "name": "Attending Art Basel",
+      "type": "activity",
+      "rating": 62
+    },
+    {
+      "name": "Owning a vineyard",
+      "type": "object",
+      "rating": 61
+    },
+    {
+      "name": "First-class international travel",
+      "type": "activity",
+      "rating": 59
+    },
+    {
+      "name": "High-end home theater system",
+      "type": "object",
+      "rating": 57
+    },
+    {
+      "name": "Attending opera premieres",
+      "type": "activity",
+      "rating": 55
+    },
+    {
+      "name": "Luxury spa retreats",
+      "type": "activity",
+      "rating": 53
+    },
+    {
+      "name": "Professional photography equipment",
+      "type": "object",
+      "rating": 51
+    }
+  ]
+}

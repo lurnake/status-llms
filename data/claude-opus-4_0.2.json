@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 96
+    },
+    {
+      "name": "Yacht over 100 feet",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Attending Davos World Economic Forum",
+      "type": "activity",
+      "rating": 92
+    },
+    {
+      "name": "Multiple homes in prime locations",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Ivy League education",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Patek Philippe watch",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Serving on Fortune 500 board",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Ferrari or Lamborghini",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "First-class international travel",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Hermès Birkin bag",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Membership at exclusive country clubs",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Tesla Model S Plaid",
+      "type": "object",
+      "rating": 73
+    },
+    {
+      "name": "Publishing in prestigious journals",
+      "type": "activity",
+      "rating": 72
+    },
+    {
+      "name": "Penthouse apartment in Manhattan",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Speaking at TED main stage",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Designer clothing wardrobe",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "Wine collection with rare vintages",
+      "type": "object",
+      "rating": 71
+    },
+    {
+      "name": "Running marathons in multiple countries",
+      "type": "activity",
+      "rating": 64
+    },
+    {
+      "name": "Latest iPhone Pro Max",
+      "type": "object",
+      "rating": 58
+    },
+    {
+      "name": "Attending Art Basel",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "Home with smart automation",
+      "type": "object",
+      "rating": 62
+    },
+    {
+      "name": "Having a personal trainer",
+      "type": "activity",
+      "rating": 65
+    },
+    {
+      "name": "Original artwork collection",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Dining at Michelin-starred restaurants",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Carbon-neutral lifestyle certification",
+      "type": "activity",
+      "rating": 66
+    }
+  ]
+}

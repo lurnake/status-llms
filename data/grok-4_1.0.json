@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Attending Harvard University",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Owning a luxury yacht",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Vacationing in the Maldives",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Rolex Submariner watch",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Being a CEO of a tech giant",
+      "type": "activity",
+      "rating": 90
+    },
+    {
+      "name": "Hermès Birkin bag",
+      "type": "object",
+      "rating": 78
+    },
+    {
+      "name": "Space tourism flight",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Mansion in Monaco",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Ferrari supercar",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Philanthropic foundation leadership",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Original Picasso painting",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Skiing in Courchevel",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Private island ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Publishing a New York Times bestseller",
+      "type": "activity",
+      "rating": 72
+    },
+    {
+      "name": "Patek Philippe watch",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Attending Davos World Economic Forum",
+      "type": "activity",
+      "rating": 81
+    },
+    {
+      "name": "Tesla Cybertruck",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "Winning an Olympic gold medal",
+      "type": "activity",
+      "rating": 91
+    },
+    {
+      "name": "Vineyard estate in Napa Valley",
+      "type": "object",
+      "rating": 76
+    },
+    {
+      "name": "Influencing with millions of social media followers",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "High-end electric bicycle",
+      "type": "object",
+      "rating": 55
+    },
+    {
+      "name": "Yacht racing in Monaco",
+      "type": "activity",
+      "rating": 79
+    },
+    {
+      "name": "Rare wine collection",
+      "type": "object",
+      "rating": 74
+    }
+  ]
+}

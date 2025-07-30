@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private island ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 90
+    },
+    {
+      "name": "Owning a Picasso painting",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Space tourism flight",
+      "type": "activity",
+      "rating": 96
+    },
+    {
+      "name": "Permanent residency in Monaco",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "Chairing a Fortune 500 company",
+      "type": "activity",
+      "rating": 93
+    },
+    {
+      "name": "Rare vintage wine collection",
+      "type": "object",
+      "rating": 85
+    },
+    {
+      "name": "Keynote speaking at Davos",
+      "type": "activity",
+      "rating": 94
+    },
+    {
+      "name": "Limited edition Patek Philippe watch",
+      "type": "object",
+      "rating": 88
+    },
+    {
+      "name": "Funding major philanthropic foundations",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Personal submarine",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Attending Olympic Games opening ceremonies as VIP",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Historic European castle ownership",
+      "type": "object",
+      "rating": 91
+    },
+    {
+      "name": "Graduating from Ivy League university",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Custom Bugatti hypercar",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Launching a successful tech unicorn",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "Private art museum with curated collection",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Safari with exclusive conservation access",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Haute couture fashion collection",
+      "type": "object",
+      "rating": 72
+    },
+    {
+      "name": "Ownership of professional sports team",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Attending private Academy Awards after-parties",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Sustainable mega-yacht with green technology",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Michelin three-star chef private dining",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Membership in elite social clubs (e.g., Soho House Founders)",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "First-class around-the-world travel",
+      "type": "activity",
+      "rating": 65
+    }
+  ]
+}

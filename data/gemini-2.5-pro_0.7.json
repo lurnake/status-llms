@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Superyacht ownership",
+      "type": "object",
+      "rating": 99
+    },
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 98
+    },
+    {
+      "name": "Receiving a Nobel Prize",
+      "type": "activity",
+      "rating": 97
+    },
+    {
+      "name": "Leading a major philanthropic foundation (e.g., Gates Foundation)",
+      "type": "activity",
+      "rating": 96
+    },
+    {
+      "name": "Owning a major professional sports team",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Owning a rare masterpiece of fine art (e.g., a Warhol or Basquiat)",
+      "type": "object",
+      "rating": 89
+    },
+    {
+      "name": "Attending an Ivy League or Oxbridge university",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "A Patek Philippe Grand Complication watch",
+      "type": "object",
+      "rating": 87
+    },
+    {
+      "name": "A flight on a private space tourism mission",
+      "type": "activity",
+      "rating": 86
+    },
+    {
+      "name": "Delivering a main stage TED Talk",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "A bespoke Savile Row suit",
+      "type": "object",
+      "rating": 83
+    },
+    {
+      "name": "Sitting front-row at Paris Fashion Week",
+      "type": "activity",
+      "rating": 82
+    },
+    {
+      "name": "An Hermès Birkin or Kelly bag",
+      "type": "object",
+      "rating": 79
+    },
+    {
+      "name": "Flying first-class internationally on a premium airline",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Membership at an exclusive private club (e.g., Augusta National)",
+      "type": "object",
+      "rating": 77
+    },
+    {
+      "name": "Employing a full-time personal chef",
+      "type": "activity",
+      "rating": 76
+    },
+    {
+      "name": "Vacationing on a private island",
+      "type": "activity",
+      "rating": 75
+    },
+    {
+      "name": "Owning a vacation home in Aspen or St. Barts",
+      "type": "object",
+      "rating": 69
+    },
+    {
+      "name": "Driving a new high-end luxury vehicle (e.g., Porsche, Bentley)",
+      "type": "object",
+      "rating": 68
+    },
+    {
+      "name": "A classic Rolex Daytona or Submariner watch",
+      "type": "object",
+      "rating": 65
+    },
+    {
+      "name": "Competing in an Ironman World Championship",
+      "type": "activity",
+      "rating": 64
+    },
+    {
+      "name": "Having a professionally curated wine cellar with rare vintages",
+      "type": "object",
+      "rating": 62
+    },
+    {
+      "name": "Courtside seats at the NBA Finals",
+      "type": "object",
+      "rating": 61
+    },
+    {
+      "name": "Attending a multi-week, high-end wellness retreat",
+      "type": "activity",
+      "rating": 58
+    },
+    {
+      "name": "A high-end designer home sound system (e.g., Bang & Olufsen)",
+      "type": "object",
+      "rating": 56
+    }
+  ]
+}

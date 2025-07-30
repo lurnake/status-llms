@@ -1,0 +1,129 @@
+{
+  "items": [
+    {
+      "name": "Private jet ownership",
+      "type": "object",
+      "rating": 95
+    },
+    {
+      "name": "Attending Harvard",
+      "type": "activity",
+      "rating": 88
+    },
+    {
+      "name": "Owning a luxury yacht",
+      "type": "object",
+      "rating": 92
+    },
+    {
+      "name": "Living in a penthouse in a major city",
+      "type": "object",
+      "rating": 90
+    },
+    {
+      "name": "Winning a Nobel Prize",
+      "type": "activity",
+      "rating": 98
+    },
+    {
+      "name": "Driving a Bugatti",
+      "type": "object",
+      "rating": 94
+    },
+    {
+      "name": "Vacationing in the Maldives",
+      "type": "activity",
+      "rating": 85
+    },
+    {
+      "name": "Owning a Picasso painting",
+      "type": "object",
+      "rating": 97
+    },
+    {
+      "name": "Attending the Met Gala",
+      "type": "activity",
+      "rating": 89
+    },
+    {
+      "name": "Membership in an exclusive private club",
+      "type": "activity",
+      "rating": 87
+    },
+    {
+      "name": "Owning a vineyard",
+      "type": "object",
+      "rating": 82
+    },
+    {
+      "name": "Having a personal chef",
+      "type": "object",
+      "rating": 80
+    },
+    {
+      "name": "Flying first class internationally",
+      "type": "activity",
+      "rating": 78
+    },
+    {
+      "name": "Owning a Tesla Model S Plaid",
+      "type": "object",
+      "rating": 76
+    },
+    {
+      "name": "Attending a Formula 1 Grand Prix",
+      "type": "activity",
+      "rating": 74
+    },
+    {
+      "name": "Owning a Rolex watch",
+      "type": "object",
+      "rating": 72
+    },
+    {
+      "name": "Dining at a Michelin 3-star restaurant",
+      "type": "activity",
+      "rating": 70
+    },
+    {
+      "name": "Owning a second home in the Hamptons",
+      "type": "object",
+      "rating": 86
+    },
+    {
+      "name": "Having a personal trainer",
+      "type": "activity",
+      "rating": 68
+    },
+    {
+      "name": "Owning a rare book collection",
+      "type": "object",
+      "rating": 66
+    },
+    {
+      "name": "Attending the Cannes Film Festival",
+      "type": "activity",
+      "rating": 84
+    },
+    {
+      "name": "Owning a high-end gaming PC setup",
+      "type": "object",
+      "rating": 60
+    },
+    {
+      "name": "Participating in a TED Talk",
+      "type": "activity",
+      "rating": 83
+    },
+    {
+      "name": "Owning a custom-made suit",
+      "type": "object",
+      "rating": 64
+    },
+    {
+      "name": "Attending a private concert",
+      "type": "activity",
+      "rating": 62
+    }
+  ]
+}
