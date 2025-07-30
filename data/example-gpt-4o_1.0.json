@@ -1,0 +1,29 @@
+{
+  "items": [
+    {"name": "Owning a Lamborghini", "type": "object", "rating": 87},
+    {"name": "Stanford MBA", "type": "activity", "rating": 90},
+    {"name": "Patek Philippe watch", "type": "object", "rating": 94},
+    {"name": "Networking at Davos", "type": "activity", "rating": 93},
+    {"name": "Manhattan penthouse", "type": "object", "rating": 91},
+    {"name": "Flying first class", "type": "activity", "rating": 76},
+    {"name": "Louis Vuitton trunk", "type": "object", "rating": 71},
+    {"name": "Yacht week in Monaco", "type": "activity", "rating": 89},
+    {"name": "Personal trainer", "type": "object", "rating": 65},
+    {"name": "Aspen ski lodge", "type": "object", "rating": 84},
+    {"name": "Wine investment", "type": "activity", "rating": 75},
+    {"name": "Bentley Continental", "type": "object", "rating": 79},
+    {"name": "Opera season tickets", "type": "activity", "rating": 67},
+    {"name": "Art auction bidding", "type": "activity", "rating": 82},
+    {"name": "Chanel haute couture", "type": "object", "rating": 86},
+    {"name": "Private golf course", "type": "object", "rating": 88},
+    {"name": "Charity board position", "type": "activity", "rating": 78},
+    {"name": "Personal sommelier", "type": "object", "rating": 73},
+    {"name": "Royal Ascot attendance", "type": "activity", "rating": 74},
+    {"name": "Helicopter commuting", "type": "activity", "rating": 85},
+    {"name": "Rare book collection", "type": "object", "rating": 70},
+    {"name": "Private museum tour", "type": "activity", "rating": 72},
+    {"name": "Concierge medicine", "type": "activity", "rating": 68},
+    {"name": "Bespoke furniture", "type": "object", "rating": 66},
+    {"name": "Antarctic expedition", "type": "activity", "rating": 81}
+  ]
+}
