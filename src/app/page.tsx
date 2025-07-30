@@ -35,7 +35,7 @@ export default async function Home() {
             <a href="#explore">Start Exploring <ArrowDown className="ml-2 h-5 w-5" /></a>
           </Button>
           <Button size="lg" variant="outline" asChild>
-            <a href="https://github.com/your-repo/status-llms" target="_blank">View on GitHub <Github className="ml-2 h-5 w-5" /></a>
+            <a href="https://github.com/lurnake/status-llms" target="_blank">View on GitHub <Github className="ml-2 h-5 w-5" /></a>
           </Button>
         </div>
       </div>

@@ -24,7 +24,7 @@ export function Header() {
             </a>
           </Button>
           <Button variant="ghost" size="sm" asChild>
-            <a href="https://github.com/your-repo/status-llms" target="_blank" className="flex items-center space-x-2 px-3 py-2">
+            <a href="https://github.com/lurnake/status-llms" target="_blank" className="flex items-center space-x-2 px-3 py-2">
               <Github className="h-4 w-4" />
               <span className="hidden sm:inline text-sm">GitHub</span>
             </a>
