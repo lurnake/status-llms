@@ -6,7 +6,7 @@ export default function About() {
         
         <div className="space-y-6 text-lg leading-relaxed">
           <p>
-            This project explores how frontier Large Language Models (LLMs) perceive and rank status symbols in contemporary society. By systematically prompting leading AI models including Claude, GPT, Gemini, and others, we&apos;ve compiled a comprehensive dataset of what these models consider to be high-status activities and objects.
+            This project explores how frontier Large Language Models (LLMs) perceive and rank status symbols in contemporary society. By systematically prompting leading AI models including Claude 4, GPT-4o, Gemini 2.5, and others, we&apos;ve compiled a comprehensive dataset of what these models consider to be high-status activities and objects.
           </p>
 
           <h2 className="text-2xl font-semibold mt-8 mb-4">Methodology</h2>
@@ -16,7 +16,7 @@ export default function About() {
 
           <h2 className="text-2xl font-semibold mt-8 mb-4">Why This Matters</h2>
           <p>
-            Large Language Models are increasingly influential in shaping how we understand and interact with information. Their perceptions of status and value don&apos;t exist in a vacuum—they reflect the training data they&apos;ve learned from, which includes human-created content about status, wealth, and social hierarchies.
+          As LLMs become more integrated into our daily lives, their underlying value systems—learned from a vast corpus of human-generated text—are worth examining. Their interpretation of status is a mirror, reflecting the cultural, economic, and social hierarchies present in their training data.
           </p>
           
           <p>
@@ -31,7 +31,7 @@ export default function About() {
 
           <h2 className="text-2xl font-semibold mt-8 mb-4">Data Collection</h2>
           <p>
-            The dataset includes responses from multiple frontier models across various temperature settings, resulting in thousands of individual status symbol ratings. Each response includes the item description, numerical rating, model name, and temperature setting used.
+            The dataset includes responses from multiple frontier models across various temperature settings, resulting in close to a thousand individual status symbol ratings. Each response includes the item description, numerical rating, model name, and temperature setting used.
           </p>
 
           <h2 className="text-2xl font-semibold mt-8 mb-4">Open Source</h2>

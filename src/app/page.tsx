@@ -22,13 +22,13 @@ export default async function Home() {
     <main className="container mx-auto p-4 md:p-8">
       <div className="min-h-[60vh] flex flex-col justify-center items-center text-center">
         <h1 className="text-4xl md:text-6xl font-bold tracking-tighter bg-clip-text text-transparent bg-gradient-to-r from-green-600 to-emerald-500">
-          What is True Status?
+        How AI Perceives Status
         </h1>
         <p className="mt-4 max-w-3xl text-lg md:text-xl text-muted-foreground">
-          We asked leading AI models to tell us what activities and objects they consider high-status. This project is a raw, unfiltered look into the values and biases encoded in modern Large Language Models.
+          We asked leading AI models to tell us what activities and objects they consider high-status. This project is a look into the values and biases encoded in modern Large Language Models. The answers are similar across the models, but there are some interesting differences.
         </p>
         <p className="mt-3 max-w-2xl text-base md:text-lg text-muted-foreground/80">
-          From private jets to Nobel prizes, explore how Claude, GPT, Gemini, and other frontier models perceive wealth, achievement, and social capital across different creativity temperatures.
+          From private jets to Nobel prizes, explore how Claude, GPT-4o, Gemini 2.5-pro, and other frontier models perceive wealth, achievement, and social capital across different creativity temperatures.
         </p>
         <div className="mt-8 flex gap-4">
           <Button size="lg" asChild>
