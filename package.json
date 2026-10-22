@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test:security": "node --test scripts/security-regression.mjs"
   },
   "dependencies": {
     "@radix-ui/react-select": "^2.2.5",
@@ -30,13 +31,15 @@
     "eslint-config-next": "15.5.28",
     "postcss": "8.5.31",
     "tailwindcss": "3.4.19",
-    "typescript": "^5.0.0"
+    "typescript": "^5.0.0",
+    "braces": "file:vendor/security/braces-3.0.3.tgz"
   },
   "engines": {
     "node": ">=24.22.1 <25"
   },
   "overrides": {
     "postcss-selector-parser": "7.1.7",
-    "postcss": "$postcss"
+    "postcss": "$postcss",
+    "braces": "$braces"
   }
 }
